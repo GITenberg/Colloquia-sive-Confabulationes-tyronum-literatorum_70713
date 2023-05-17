@@ -1,0 +1,32 @@
+_repo: Colloquia-sive-Confabulationes-tyronum-literatorum_70713
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schottennius, Hermannus
+    aliases:
+    - Schottenius, Hermann
+    - Hessus, Hermannus
+    - Schotenius, Hermanus
+    - Hesse, Andreus
+    gutenberg_agent_id: '55879'
+    url: http://www.gutenberg.org/2009/agents/55879
+description: ''
+gutenberg_issued: '2023-05-07'
+identifiers:
+  gutenberg: '70713'
+language: la
+pgterms:marc904: https://books.google.fr/books?id=B8k7AAAAcAAJ&printsec=frontcover&hl=fr&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+pgterms:marc905: 20230312110130schotteniu
+pgterms:marc906: '1556'
+pgterms:marc907: DE
+production_note: Aurēliānus Agricola
+publication_note: '  $aGermany :$bJohann Petreius, $c1556, pubdate 1566.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dialogues, Latin (Medieval and modern)'
+- !lcc 'PA'
+- GITenberg
+title: Colloquia, sive Confabulationes tyronum literatorum
+url: http://www.gutenberg.org/ebooks/70713
