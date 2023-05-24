@@ -1,5 +1,8 @@
 _repo: Colloquia-sive-Confabulationes-tyronum-literatorum_70713
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schottennius, Hermannus
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '55879'
     url: http://www.gutenberg.org/2009/agents/55879
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70713#Colloquia-sive-Confabulationes-tyronum-literatorum
 gutenberg_issued: '2023-05-07'
 identifiers:
   gutenberg: '70713'
